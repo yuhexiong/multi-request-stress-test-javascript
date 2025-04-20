@@ -1,6 +1,9 @@
 # Multi Request Stress Test  
 
-A stress test script that sends multiple concurrent requests to the same API.
+**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
+
+
+A stress test script that sends multiple concurrent requests to the same API and reports the response time of each request.
 
 
 
